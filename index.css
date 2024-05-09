@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web site</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="link rel="stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar container flex">
+            <h2 class="logo"><a href="#">LOGO</a></h2>
+
+            <ul class="nav-links flex">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#servicse">Servicse</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#about us">About us</a></li>
+                <li><a href="#conact us">Conact us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="homepage" id="home">
+        <div class="content flex">
+            <div class="text">
+                <h1>camping ghar and sincial</h1>
+                <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full </p>
+            </div>
+            <a href="#servicse"> Our Servicse</a>
+        </div>
+
+    </section>
+
+    <section class="servicse" id="servicse">
+        <div class="container">
+            <div class="section-title">
+                <h2> Our Servicse</h2>
+                <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+            </div>
+                <ul class="cards flex">
+                    <li class="card">
+                        <img src="custom-website-images/images/tents.jpg" alt="Servicse img">
+                        <h3>Tends</h3>
+                        <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                    </li>
+                    <li class="card">
+                        <img src="custom-website-images/images/tents.jpg" alt="Servicse img">
+                        <h3>Tends</h3>
+                        <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                    </li>
+                    <li class="card">
+                        <img src="custom-website-images/images/tents.jpg" alt="Servicse img">
+                        <h3>Tends</h3>
+                        <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                    </li>
+                    <li class="card">
+                        <img src="custom-website-images/images/tents.jpg" alt="Servicse img">
+                        <h3>Tends</h3>
+                        <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                    </li>
+                    <li class="card">
+                        <img src="custom-website-images/images/tents.jpg" alt="Servicse img">
+                        <h3>Tends</h3>
+                        <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                    </li>
+                    <li class="card">
+                        <img src="custom-website-images/images/tents.jpg" alt="Servicse img">
+                        <h3>Tends</h3>
+                        <p>The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                    </li>
+
+                </ul>
+
+        </div>
+
+    </section>
+    <section class="Portfolio" id="Portfolio">
+        <div class="container">
+            <div class="section-title">
+                <h2>Our Portfolio </h2>
+                <p>The lahor camping, The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+
+            </div>
+            <ul class="cards flex">
+                <li class="card">
+                    <img src="custom-website-images/images/camping-1.jpg" alt="Servicse img">
+                    <h3>Mountain Hiking</h3>
+                    <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                </li>
+                <li class="card">
+                    <img src="custom-website-images/images/camping-1.jpg" alt="Servicse img">
+                    <h3>Mountain Hiking</h3>
+                    <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                </li>
+                <li class="card">
+                    <img src="custom-website-images/images/camping-1.jpg" alt="Servicse img">
+                    <h3>Mountain Hiking</h3>
+                    <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                </li>
+                <li class="card">
+                    <img src="custom-website-images/images/camping-1.jpg" alt="Servicse img">
+                    <h3>Mountain Hiking</h3>
+                    <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                </li>
+                <li class="card">
+                    <img src="custom-website-images/images/camping-1.jpg" alt="Servicse img">
+                    <h3>Mountain Hiking</h3>
+                    <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                </li>
+                <li class="card">
+                    <img src="custom-website-images/images/camping-1.jpg" alt="Servicse img">
+                    <h3>Mountain Hiking</h3>
+                    <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader and powar full</p>
+                </li>
+            </ul>
+            
+        </div>
+    </section>
+
+    <section class="About" id="About">
+        <div class="container">
+            <div class="section-title">
+                <h2>About Us</h2>
+                <p>The lahor camping ghar and sincial the most important thing is to b a grat lader.</p>
+            </div>
+            <div class="row company-info">
+                <h3>Our Story</h3>
+                <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader.</p>
+                <h3>Our Vision</h3>
+                <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader.</p>
+                <h3>Our Goule</h3>
+                <p>The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader. The lahor camping ghar and sincial the most important thing is to b a grat lader.</p>
+                
+            </div>
+            <div class="row team">
+                <h3>Our Team</h3>
+                <ul>
+                    <li>Noman-Ramzan - Founder and CEO</li>
+                    <li>Noman-Ramzan - Founder and CEO</li>
+                    <li>Noman-Ramzan - Founder and CEO</li>
+                    <li>Noman-Ramzan - Founder and CEO</li>
+                    
+                </ul>
+
+            </div>
+        </div>
+
+    </section>
+    <section class="Conact" id="Conact">
+        <div class="container">
+            <div class="section-title">
+                <h2>Content Us</h2>
+                <p>The lahor camping ghar and sincial the most important thing is to b a grat lader.</p>
+            </div>
+        </div>
+        <div class="row flex">
+            <div class="col information">
+                <div class="Conact-details">
+                    <p><i class="fas fa-map-marker-alt"></i>12p Xampsite Avenue, Wilderness, CA 98765</p>
+                    <p><i class="fas fa-phone"></i>(199) CA 98765</p>
+                    <p><i class="fas fa-envelop"></i>12p Xamp CA 00065</p>
+                    
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+    
+</body>
+</html>
